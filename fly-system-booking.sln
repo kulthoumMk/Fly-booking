@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "fly-system-booking", "fly-system-booking\fly-system-booking.vbproj", "{51C029C2-E192-4195-B9CF-62582B1A631E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asset", "Asset", "{0B2F729A-AC0F-4275-B0CA-4B834A051113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C029C2-E192-4195-B9CF-62582B1A631E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C029C2-E192-4195-B9CF-62582B1A631E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C029C2-E192-4195-B9CF-62582B1A631E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C029C2-E192-4195-B9CF-62582B1A631E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A802322-3814-4441-9309-EFA52CDAE285}
+	EndGlobalSection
+EndGlobal
